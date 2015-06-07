@@ -1,0 +1,1 @@
+Mining motifs from multi-variate time series data.
